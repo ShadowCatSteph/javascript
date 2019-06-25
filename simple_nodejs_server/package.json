@@ -1,0 +1,19 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "simple_node_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShadowCatSteph/javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShadowCatSteph/javascript/issues"
+  },
+  "homepage": "https://github.com/ShadowCatSteph/javascript#readme"
+}
