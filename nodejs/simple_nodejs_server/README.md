@@ -1,0 +1,1 @@
+This is a simple node server using node's built in http module.  No external dependencies required to run.  Most likely the simplest useful node program in existence.  Great template for beginner backend/js programmers to use.

@@ -1,0 +1,1 @@
+Repository for Javascript fundamentals and code practice, mostly.
